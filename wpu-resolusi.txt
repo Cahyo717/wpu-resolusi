@@ -1,3 +1,4 @@
 RESOLUSI
 
 Konsisten belajar skill git dan github
+Membuat project QA Automation
